@@ -53,6 +53,7 @@ A **red LED** integrated onto the module board serves as a power indicator.
 - Cover or shade the sensor element with your finger. 
 
 - Verify that the **blue LED illuminates** when light is blocked.
+- [photo transister.jpeg]
 - [photo transister circuit.jpeg]
 
 # ## ⚠️� Notes 
